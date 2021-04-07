@@ -1,5 +1,6 @@
 # qrcode_api
-simple api for creating and decoding QR codes
+simple api for encoding and decoding QR codes
+created using Flask RESTful 
 
  ## Endpoints
  
